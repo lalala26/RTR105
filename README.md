@@ -20,6 +20,9 @@
 * mkdir+ mapes nosaukums-izveidot aj\\jauno mapi
 * cd+vietas nosaukums-parvietoties
 * echo+ tekts - izveidot tekstu 
+* chmod+skaitlis-mainit lietototaja tiesibas
+* mv*+faila nosaukums-parveidot vai parvietot so failu
+* . -current directory
 
 
 
