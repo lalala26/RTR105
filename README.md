@@ -17,4 +17,9 @@
 * ls -la -parada pilnīgi visus objektus
 * root- ta ir
 * cat+ faila nosaukuma sākums piedava automatiski atrast vajadzīgo failu,jā piemēram jus neatceraties pilno nosaukumu!
+* mkdir+ mapes nosaukums-izveidot aj\\jauno mapi
+* cd+vietas nosaukums-parvietoties
+* echo+ tekts - izveidot tekstu 
+
+
 
