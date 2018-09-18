@@ -90,6 +90,3 @@ mkdir ManaMape
 * 121  ls -l
 * 122  man rm
 * 123 history
-
-
-
