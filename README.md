@@ -95,3 +95,4 @@ mkdir ManaMape
 * 1byte=8 bites=256 dažādi simboli
 * burts "burts" ; ord(burts)-kārta
 * http://www.ecowin.org/ascii.htm
+
