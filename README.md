@@ -23,6 +23,7 @@
 * chmod+skaitlis-mainit lietototaja tiesibas
 * mv*+faila nosaukums-parveidot vai parvietot so failu
 * . -current directory
+* ctrl+shift+t - pievienot jauno vietni
 
 
 
