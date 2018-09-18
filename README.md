@@ -89,4 +89,4 @@ mkdir ManaMape
 * 120  rm fails*.txt
 * 121  ls -l
 * 122  man rm 
-
+* 123 mainīgais=vērtība(piešķiršanas sistēma)
