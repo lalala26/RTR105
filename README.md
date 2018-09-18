@@ -96,70 +96,70 @@ mkdir ManaMape
 * burts "burts" ; ord(burts)-kārta
 * http://www.ecowin.org/ascii.htm
 * VirtualBox --startvm XP
-  quartus
-  echo -e "mkdir Mape\ncd Mape" > create_in.sh
-  ls
-  ls -l
-  cat create_in.sh 
-  create_in
-  create_in.sh
-  echo $PATH
-  whereis cd
-  whereis firefox
-  pwd
-  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
-  echo $PATH
-  create_in.sh
-  echo $PATH
-  ls -l
-  chmod 764 create_in.sh 
-  ls -l
-  create_in
-  create_in.sh 
-  ls 
-  echo $PATH
-  ls 
-  PATH=$PATH:~/Mape
-  echo $PATH
-  /home/user/create_in.sh 
-  ./create_in.sh 
-  nano create_in.sh 
-  create_in.sh 
-  ls -l
-  cd Mape
-  ls -l
-  cd ..bcat create_in.sh 
-  nano create_in.sh 
-  ls /usr/bin/bash
-  ls /user/bin/bash
-  cd /usr/
-  cd /bin/
-  ls -l
-  ls -l | grep bash 
-  cd
-  nano create_in.sh 
-  pwd
-  ls -l
-  git clone https://github.com/tatusmatrix/RTR105
-  ls -l
-  cd RTR105
-  ls -l
-  nano README.md 
-  pwd
-  ls -l
-  nano README.md 
-  nano git-upload
-  ls -l
-  history > history_20180918.txt
-  ls
-  ls -l
-  chmod 764 git-upload 
-  ls -l
-  ./git-upload 
-  ./git-upload 20180918_15_30
-  python
-  ipython
-  idle &
-  ls -l
-  history > history_20180918.txt
+  * quartus
+  * echo -e "mkdir Mape\ncd Mape" > create_in.sh
+  * ls
+  * ls -l
+  * cat create_in.sh 
+  * create_in
+  * create_in.sh
+  * echo $PATH
+  * whereis cd
+  * whereis firefox
+  * pwd
+  * PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+  * echo $PATH
+  * create_in.sh
+  * echo $PATH
+  * ls -l
+  * chmod 764 create_in.sh 
+  * ls -l
+  * create_in
+  * create_in.sh 
+  * ls 
+  * echo $PATH
+  * ls 
+  * PATH=$PATH:~/Mape
+  * echo $PATH
+  * /home/user/create_in.sh 
+  * ./create_in.sh 
+  * nano create_in.sh 
+  * create_in.sh 
+  * ls -l
+  * cd Mape
+  * ls -l
+  * cd ..bcat create_in.sh 
+  * nano create_in.sh 
+  * ls /usr/bin/bash
+  * ls /user/bin/bash
+  * cd /usr/
+  * cd /bin/
+  * ls -l
+  * ls -l | grep bash 
+  * cd
+  * nano create_in.sh 
+  * pwd
+  * ls -l
+  * git clone https://github.com/tatusmatrix/RTR105
+  * ls -l
+  * cd RTR105
+  * ls -l
+  * nano README.md 
+  * pwd
+  * ls -l
+  * nano README.md 
+  * nano git-upload
+  * ls -l
+  * history > history_20180918.txt
+  * ls
+  * ls -l
+  * chmod 764 git-upload 
+  * ls -l
+  * ./git-upload 
+  * ./git-upload 20180918_15_30
+  * python
+  * ipython
+  * idle &
+  * ls -l
+  * history > history_20180918.txt
 
