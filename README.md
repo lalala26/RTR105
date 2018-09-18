@@ -93,3 +93,4 @@ mkdir ManaMape
 * 124 veselie skaitli-"int" mainīgais
 * 125 neveselie skaitli-"float" mainīgais
 * 1byte=8 bites=256 dažādi simboli
+* burts "burts" ; ord(burts)-kārta
