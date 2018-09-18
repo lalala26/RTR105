@@ -90,3 +90,5 @@ mkdir ManaMape
 * 121  ls -l
 * 122  man rm 
 * 123 mainīgais=vērtība(piešķiršanas sistēma)
+* 124 veselie skaitli-"int" mainīgais
+* 125 neveselie skaitli-"float" mainīgais
